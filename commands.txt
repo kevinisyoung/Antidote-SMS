@@ -1,0 +1,13 @@
+Commands
+
+Directions from (place/city) to (somewhere)
+Search (something)
+Weather (city/zip)
+Bal/Balance
+
+Coming Soon:
+sports scores
+movie showings
+phone number of (place/city)
+default zip (areacode)
+ -- You are not what you own but you can be owned by what you own.

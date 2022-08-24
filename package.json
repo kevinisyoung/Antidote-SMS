@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "@signalwire/node": "^2.1.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cron": "^1.7.2",
+    "ddg": "^0.0.3",
+    "express": "^4.17.1",
+    "find-process": "^1.4.2",
+    "fkill": "^6.2.0",
+    "jsearch": "^1.0.0",
+    "kill-port": "^1.5.1",
+    "killall": "^1.0.4",
+    "weather-js": "^2.0.0"
+  }
+}
