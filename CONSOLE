@@ -1,15 +1,15 @@
 Server running on port 3000
 hi!(great idea on reddit. want to use.)
-Incoming message from: +16513365778
+Incoming message from: +XXXXXXXXXX
 'Hi! (great idea on reddit. Want to use.)'
 Hello this profile does not exist yet lets create it
-Message sent to +16513365778: Welcome to Antidote SMS!  Feel free to try us out.  Your account has been loaded with 5 free valid responses.  Say "Help" to see what I can do.
+Message sent to +XXXXXXXXXX: Welcome to Antidote SMS!  Feel free to try us out.  Your account has been loaded with 5 free valid responses.  Say "Help" to see what I can do.
 ed3e1d82-6498-418e-93e6-70eb9ef5b39c
 help
-Incoming message from: +16513365778
+Incoming message from: +XXXXXXXXXX
 'Help'
-Response POST  Params --->{"MessageSid":"4c37d3a9-6dce-4929-827f-ef4660776829","SmsSid":"4c37d3a9-6dce-4929-827f-ef4660776829","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+16513365778","To":"+18052440004","Body":"Help","NumMedia":"0","NumSegments":"1"}
-Message sent to +16513365778: Commands
+Response POST  Params --->{"MessageSid":"4c37d3a9-6dce-4929-827f-ef4660776829","SmsSid":"4c37d3a9-6dce-4929-827f-ef4660776829","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+16513365778","To":"+XXXXXXXXXX","Body":"Help","NumMedia":"0","NumSegments":"1"}
+Message sent to +XXXXXXXXXX: Commands
 
 Directions from (place/city) to (somewhere)
 Search (something)
@@ -22,7 +22,7 @@ movie showings
 phone number of (place/city)
 default zip (areacode)
  -- You are not what you own but you can be owned by what you own.
-Response POST  Params --->{"MessageSid":"4c37d3a9-6dce-4929-827f-ef4660776829","SmsSid":"4c37d3a9-6dce-4929-827f-ef4660776829","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+16513365778","To":"+18052440004","Body":"Help","NumMedia":"0","NumSegments":"1"}
+Response POST  Params --->{"MessageSid":"4c37d3a9-6dce-4929-827f-ef4660776829","SmsSid":"4c37d3a9-6dce-4929-827f-ef4660776829","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+16513365778","To":"+XXXXXXXXXX","Body":"Help","NumMedia":"0","NumSegments":"1"}
 Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
     at ServerResponse.setHeader (_http_outgoing.js:470:11)
     at ServerResponse.header (/home/runner/node_modules/express/lib/response.js:771:10)
@@ -34,28 +34,28 @@ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the cli
     at next (/home/runner/node_modules/express/lib/router/route.js:137:13)
     at /home/runner/node_modules/body-parser/lib/read.js:130:5
     at invokeCallback (/home/runner/node_modules/raw-body/index.js:224:16)
-directionsfrom lake hiawatha minneapolis to 54 cretin avenue s. st. paul mn 
-Incoming message from: +16513365778
-'Directions from lake hiawatha minneapolis to 54 cretin avenue s. St. Paul MN '
+directionsfrom lake hiawatha minneapolis to XX XX avenue s. st. paul mn 
+Incoming message from: +XXXXXXXXXX
+'Directions from lake hiawatha minneapolis to XX XX avenue s. St. Paul MN '
 User Origin: lake hiawatha minneapolis 
 User Dest: 54 cretin avenue s. St. Paul MN  
 found the lat long of the origin.  Now passing into findPlace to find the nearest instance of the dest.
 hey
 Response proccessed, ready to send to user.
-Lake Hiawatha -> 54 Cretin Ave S
+Lake XX -> XX XX Ave S
 11 mins, 3.6 mi
 1 : Head south on S 28th Ave toward E 46th St
 2 : 279 ft - Turn left onto E 46th St
 3 : 1.2 mi, 5 mins - Slight right onto Ford Pkwy
-Turn left onto Cretin Ave S
+Turn left onto XX Ave S
 Destination will be on the right
 Response POST  Params --->{"MessageSid":"a10ae40f-51a3-458c-969d-f36515156060","SmsSid":"a10ae40f-51a3-458c-969d-f36515156060","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+16513365778","To":"+18052440004","Body":"Directions from lake hiawatha minneapolis to 54 cretin avenue s. St. Paul MN ","NumMedia":"0","NumSegments":"1"}
-Message sent to +16513365778: Lake Hiawatha -> 54 Cretin Ave S
+Message sent to +XXXXXXXXXX: Lake Hiawatha -> XX XX Ave S
 11 mins, 3.6 mi
 1 : Head south on S 28th Ave toward E 46th St
 2 : 279 ft - Turn left onto E 46th St
 3 : 1.2 mi, 5 mins - Slight right onto Ford Pkwy
-Turn left onto Cretin Ave S
+Turn left onto XX Ave S
 Destination will be on the right
 
 
@@ -69,11 +69,11 @@ Destination will be on the right
 
 Server running on port 3000
 weatherscranton pa 
-Incoming message from: +15704994058
+Incoming message from: +XXXXXXXXXX
 'Weather scranton pa '
 []
-Response POST  Params --->{"MessageSid":"8e4293db-cd6f-4dfd-a07b-860d4e0b6130","SmsSid":"8e4293db-cd6f-4dfd-a07b-860d4e0b6130","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+15704994058","To":"+18052440004","Body":"Weather scranton pa ","NumMedia":"0","NumSegments":"1"}
-Message sent to +15704994058: Invalid location.
+Response POST  Params --->{"MessageSid":"8e4293db-cd6f-4dfd-a07b-860d4e0b6130","SmsSid":"8e4293db-cd6f-4dfd-a07b-860d4e0b6130","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+XXXXXXXXXX","To":"+XXXXXXXXXX","Body":"Weather scranton pa ","NumMedia":"0","NumSegments":"1"}
+Message sent to +XXXXXXXXXX: Invalid location.
 weatherscranton, pa
 Incoming message from: +15704994058
 'Weather scranton, pa'
@@ -103,13 +103,13 @@ Incoming message from: +15704994058
         'http://blob.weather.microsoft.com/static/weather4/en-us/law/27.gif' },
     forecast: [ [Object], [Object], [Object], [Object], [Object] ] } ]
 Response POST  Params --->{"MessageSid":"7caedc01-32b7-4e47-a4c3-c9cbbad54c5a","SmsSid":"7caedc01-32b7-4e47-a4c3-c9cbbad54c5a","AccountSid":"14140618-cef6-4595-9a9b-9d057a638488","From":"+15704994058","To":"+18052440004","Body":"Weather scranton, pa","NumMedia":"0","NumSegments":"1"}
-Message sent to +15704994058: Scranton, PA curr. 56F, Cloudy, 1 mph wind
+Message sent to +XXXXXXXXXX: Scranton, PA curr. 56F, Cloudy, 1 mph wind
 Tue - H:59 L:47 Light Rain
 Wed - H:58 L:43 Mostly Sunny
 Thu - H:64 L:46 Sunny
 Fri - H:53 L:42 Cloudy
-directions200 main st avoca, pa to 200 n river st wilkes-barre, pa
-Incoming message from: +15704994058
-'Directions 200 main st avoca, pa to 200 n river st wilkes-barre, pa'
+directionsXX main st avoca, pa to XX XX st wilkes-barre, pa
+Incoming message from: +XXXXXXXXXX
+'Directions XX main st avoca, pa to 200 n river st wilkes-barre, pa'
 User Origin: 
-User Dest: 200 n river st wilkes-barre, pa 
+User Dest: XX XX st wilkes-barre, pa 
